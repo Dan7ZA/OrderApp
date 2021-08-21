@@ -14,7 +14,7 @@
 	<name>OrderApp</name>
 	<description>An app to streamline the ordering &amp; payment processes within a restuarant</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

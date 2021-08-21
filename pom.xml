@@ -11,6 +11,7 @@
 	<groupId>com.appyflows</groupId>
 	<artifactId>OrderApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>OrderApp</name>
 	<description>An app to streamline the ordering &amp; payment processes within a restuarant</description>
 	<properties>
